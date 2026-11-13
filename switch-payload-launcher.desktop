@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Switch Payload Launcher
+Comment=Send the Hekate RCM payload to a Nintendo Switch
+Exec=SwitchPayloadLauncher
+Icon=switch-payload-launcher
+Terminal=false
+Categories=Utility;
+StartupWMClass=com.switchpayload.launcher
